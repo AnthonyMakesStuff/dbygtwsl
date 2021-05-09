@@ -5,7 +5,7 @@ Use the command `/dbygtwsl` and the bot will send "damn bro you got the whole sq
 
 ## Getting Started
 If you would like to use the bot, the quickest and easiest method is to [invite it to your server](https://discord.com/api/oauth2/authorize?client_id=840870015313510400&permissions=2147535872&scope=bot%20applications.commands).
-If you would like to run the code yourself, create and application and a bot in the [Discord developer portal](https://discord.com/developers/applications) and add your own bot token in [line 34](https://github.com/AnthonyWritesBadCode/dbygtwsl/blob/main/dbygtwsl.py#L34):
+If you would like to run the code yourself, create and application and a bot in the [Discord developer portal](https://discord.com/developers/applications) and add your own bot token on [line 34](https://github.com/AnthonyWritesBadCode/dbygtwsl/blob/main/dbygtwsl.py#L34):
 ```py
 bot.run("MY BOT TOKEN HERE")
 ```
